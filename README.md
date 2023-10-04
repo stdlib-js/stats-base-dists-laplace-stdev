@@ -67,7 +67,7 @@ The [standard deviation][standard-deviation] for a [Laplace][laplace-distributio
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-stdev@v0.1.1-deno/mod.js';
 ```
 
 #### stdev( mu, b )
@@ -127,7 +127,7 @@ y = stdev( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-stdev@v0.1.1-deno/mod.js';
 
 var mu;
 var b;
