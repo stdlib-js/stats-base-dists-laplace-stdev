@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-29)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,8 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`c4c4ed8`](https://github.com/stdlib-js/stdlib/commit/c4c4ed8abb88be48be587bcc9b9235e10de86aa4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
--   [`15f2f56`](https://github.com/stdlib-js/stdlib/commit/15f2f56fad4de8fe512738eea818737426c2771c) - **feat:** add C implementation for `stats/base/dists/laplace/stdev` [(#4158)](https://github.com/stdlib-js/stdlib/pull/4158) _(by Vivek maurya, Philipp Burckhardt)_
+-   [`15f2f56`](https://github.com/stdlib-js/stdlib/commit/15f2f56fad4de8fe512738eea818737426c2771c) - **feat:** add C implementation for `stats/base/dists/laplace/stdev` [(#4158)](https://github.com/stdlib-js/stdlib/pull/4158) _(by Vivek Maurya, Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -51,7 +52,7 @@ This release closes the following issue:
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
--   Vivek maurya
+-   Vivek Maurya
 
 </section>
 
