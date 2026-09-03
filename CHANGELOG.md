@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-01)
+## Unreleased (2026-09-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`def7690`](https://github.com/stdlib-js/stdlib/commit/def76902311333b89659b7be916534a7c8f5420a) - **test:** migrate `stats/base/dists/laplace/stdev` to ULP-based assertions [(#14910)](https://github.com/stdlib-js/stdlib/pull/14910) _(by Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
